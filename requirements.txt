@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.0
+chromedriver-binary==90.0.4430.24.0
+webdriver-manager
+selenium==3.141.0
+PyGithub==1.55
